@@ -3,7 +3,8 @@ function sum(first, secound){
     if (ruselt > 10) {
     //    var  name = "jewel rana"
    
-   const name = "jewel rana"
+//   const name = "jewel rana"
+   let name = "jewel rana"
         // name = "aboul kashem"
         console.log(name)
     }
